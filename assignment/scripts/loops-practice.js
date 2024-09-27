@@ -70,9 +70,9 @@ while ( starPlacement < stars.length ) { // you are going to continue through yo
 // 3.b. TODO: Write a while loop to console.log the numbers from 0 to 5
 console.log('count from 0 to 5');
 
-let i =0;
-while( i<=5 ) {
-  console.log(i);
+let numbers =0;
+while( numbers<=5 ) {
+  console.log(numbers);
   i++;
 }
 
